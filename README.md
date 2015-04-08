@@ -1,4 +1,3 @@
 HomeWorks
 =========
-Java
-C++
+Java, C++
